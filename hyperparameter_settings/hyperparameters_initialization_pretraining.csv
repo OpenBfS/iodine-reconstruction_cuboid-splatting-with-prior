@@ -1,0 +1,3 @@
+id;active;prior_scenario;resolution;supervised_pt;init;nr_of_cuboids;initial_lr;num_epochs;adc_frequency;new_half_size;k_neighbors;patience;adc_add_nr
+
+2036;True;Brokdorf_Prior1;100;True;sfm;150;0.1;2000;20;1.1;3;8;5
